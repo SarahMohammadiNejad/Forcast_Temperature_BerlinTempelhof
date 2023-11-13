@@ -1,6 +1,6 @@
 # Forcast_Temperature_BerlinTempelhof
 In this project, you analyse temperature time series from  Berlin Tempelhof and we create a short-term temperature forecast for Berlin Tempelhof.
-- Get and clean temperature data from www.ecad.eu
+- Get and clean temperature data for Berlin Tempelhof from www.ecad.eu
 - Build a baseline model for trend + Plot and inspect
 - Build a baseline model for seasonality + Plot and inspect
 - Extract the remainder + Test the remainder for stationarity
